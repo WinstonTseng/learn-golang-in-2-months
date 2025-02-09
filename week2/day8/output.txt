@@ -1,0 +1,2 @@
+Hello, Golang!
+This is appended content.

@@ -1,0 +1,12 @@
+
+
+    目錄: C:\Data_Folder\Programming\git\learning-golang-in-2-months\week2\day8
+
+
+Mode                 LastWriteTime         Length Name                                                                          
+----                 -------------         ------ ----                                                                          
+-a----          2025/2/9  下午 04:42            711 file_handle.go                                                                
+-a----          2025/2/9  下午 04:34            275 README.md                                                                     
+-a----          2025/2/9  下午 04:44              0 sample.txt                                                                    
+
+
