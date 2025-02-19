@@ -301,4 +301,3 @@ Tomorrow, we will:
 - Improve error handling further.
 - Package the tool for easy use.
 
-Would you like to add any extra features, such as **due dates** or **categories** for tasks? 🚀
